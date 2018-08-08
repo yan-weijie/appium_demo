@@ -1,0 +1,38 @@
+2018-07-29 10:36:51  [main:0] - [ERROR]  os.name = Windows 10
+2018-07-29 10:36:51  [main:31] - [INFO]  启动Appium Server
+2018-07-29 10:38:17  [main:0] - [INFO]  启动Appium Server
+2018-07-29 11:58:28  [main:0] - [INFO]  启动Appium Server
+2018-07-29 12:03:35  [main:0] - [INFO]  启动Appium Server
+2018-07-29 12:06:17  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:00:48  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:03:50  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:10:32  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:12:51  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:16:36  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:18:03  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:20:26  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:25:45  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:47:48  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:48:12  [main:1] - [INFO]  启动Appium Server
+2018-07-29 13:51:36  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:55:02  [main:0] - [INFO]  启动Appium Server
+2018-07-29 13:59:49  [main:0] - [INFO]  启动Appium Server
+2018-07-29 14:27:18  [main:0] - [INFO]  启动Appium Server
+2018-07-29 14:28:01  [main:0] - [INFO]  启动Appium Server
+2018-07-29 14:39:15  [main:0] - [INFO]  启动Appium Server
+2018-07-29 14:40:40  [main:0] - [INFO]  启动Appium Server
+2018-07-29 14:40:54  [main:14376] - [INFO]  SessionID: ab3f4cfd-17e8-48b5-9c2b-6c627d52b25f
+启动完成
+2018-07-29 14:44:11  [main:0] - [INFO]  启动Appium Server
+2018-07-29 14:44:24  [main:13404] - [INFO]  SessionID: 7dba8579-957b-4601-9ff5-000aa3d2ed73
+启动完成
+2018-07-29 15:24:32  [main:12163] - [INFO]  SessionID: aa778dcb-a0c1-4730-a1ef-12ddeab2d7dd
+启动完成
+2018-07-29 16:02:17  [Forwarding quit on session 89aff662-a5e3-45a8-9833-24ab42097675 to remote:57108] - [INFO]  I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:4723: Software caused connection abort: recv failed
+2018-07-29 16:02:17  [Forwarding quit on session 89aff662-a5e3-45a8-9833-24ab42097675 to remote:57113] - [INFO]  Retrying request to {}->http://localhost:4723
+2018-07-29 16:18:17  [Forwarding quit on session 42109750-daf6-41e4-aebb-924ae2af2147 to remote:54934] - [INFO]  I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:4723: Software caused connection abort: recv failed
+2018-07-29 16:18:17  [Forwarding quit on session 42109750-daf6-41e4-aebb-924ae2af2147 to remote:54938] - [INFO]  Retrying request to {}->http://localhost:4723
+2018-07-29 16:34:47  [main:10946] - [INFO]  SessionID: 5ccbf18e-fdac-4b84-8b86-d3e7e202d4e7
+启动完成
+2018-07-29 16:35:34  [Forwarding quit on session 5ccbf18e-fdac-4b84-8b86-d3e7e202d4e7 to remote:57556] - [INFO]  I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4723: Software caused connection abort: recv failed
+2018-07-29 16:35:34  [Forwarding quit on session 5ccbf18e-fdac-4b84-8b86-d3e7e202d4e7 to remote:57558] - [INFO]  Retrying request to {}->http://127.0.0.1:4723

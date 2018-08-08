@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 测试账号 -->
+<infos>
+	<capabilities>
+	    <!-- 常用手机（查询，发布数据） -->
+		<loginPhoneUser>12700010000</loginPhoneUser>
+		<!-- 常用邮箱 -->
+		<loginEmailUser>smc13800@163.com</loginEmailUser>
+		<!-- 忘记/修改密码 -->
+		<resetPassUser>smc138@163.com</resetPassUser>
+		<!-- 统一密码 -->
+		<globalPassword>testuser111111</globalPassword>
+		<!-- 未认证用户 -->
+		<notAuthUser>12700010001</notAuthUser>
+		<!-- 修改的新密码 -->
+		<updatePass>123456</updatePass>
+		<!-- 注册的固定邮箱 -->
+		<regEmail>yzypg7099@163.com</regEmail>
+		<!-- 注册的固定手机 -->
+		<regPhone>12700099999</regPhone>
+	    <!-- caos邮箱用户 -->
+		<caosEmailUser>testcaos@smc.com</caosEmailUser>
+		<!-- caos手机用户 -->
+		<caosPhoneUser>12700008800</caosPhoneUser>
+		<!-- 清理验证码的账号 -->
+		<clearDataUser>test@smc.com,smc138@163.com,smc13800@163.com,yzypg7099@163.com,
+		    12700010000,12700020000,12700010001,12700010002,12700010003,12700010004,12700010005,12700010006,12700010007,12700010008,12700010009,
+		    17700010000</clearDataUser>
+	</capabilities>	
+</infos>

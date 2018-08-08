@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--手机启动参数-->
+<infos>
+	<capabilities>
+	    <!-- 1：线上环境   2：测试环境-->
+		<switch>1</switch>
+		<!-- 失败重跑次数 -->
+		<retryNum>1</retryNum>
+		<!-- 产品：allin -->
+		<product>zdlh</product>
+	    <!-- 项目：android -->
+		<project>android</project>			
+	    <!-- platformName -->
+		<platformName>Android</platformName>
+		<!--platformVersion -->
+		<platformVersion>7.0</platformVersion>
+		<!-- browserName -->
+		<browserName>chrome</browserName>
+		<!-- appPackage -->
+		<appPackage>com.coinsauto.car</appPackage>
+		<!-- appActivity -->
+		<appActivity>.ui.activity.SplashActivity</appActivity>
+
+		{
+		"app": "E:\\APP_APK\\gbyc_code_3_build_1.0.3_test.apk",
+		"deviceName": "SM-N9006",
+		"udid": "d36096e8",192.168.169.101:5555
+		"appPackage": "com.coinsauto.car",
+		"platformName": "Android",
+		"appActivity": ".ui.activity.SplashActivity"
+		}
+	</capabilities>	
+</infos>

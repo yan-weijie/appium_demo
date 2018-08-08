@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--启动参数-->
+<infos>
+	<capabilities>
+		<lineWriteURL>jdbc:mysql://123.56.42.163:4417/allin_platform</lineWriteURL>
+		<lineWriteUser>sunmc</lineWriteUser>
+		<lineWritePass>c8ue23dddg</lineWritePass>
+		
+		<lineURL>jdbc:mysql://123.57.69.57:4417/allin_platform</lineURL>
+		<lineUser>public</lineUser>
+		<linePass>yaR9vKWUBr5Yw@PL</linePass>
+		
+		<testURL>jdbc:mysql://192.168.1.22:4417/allin_platform</testURL>
+		<testUser>manager_conn</testUser>
+		<testPass>sfsdmvdfjkvbeas</testPass>
+	</capabilities>	
+</infos>

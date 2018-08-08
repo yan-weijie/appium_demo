@@ -1,0 +1,32 @@
+2018-03-27 11:48:14  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:48:17  [main:3444] - [INFO]  启动Appium Server
+2018-03-27 11:48:24  [main:10742] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:48:24  [main:10744] - [ERROR]  welcomeExperienceIt SKIPPED
+2018-03-27 11:48:47  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:48:50  [main:3236] - [INFO]  启动Appium Server
+2018-03-27 11:49:27  [main:40134] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:49:27  [main:40136] - [ERROR]  welcomeExperienceIt SKIPPED
+2018-03-27 11:50:18  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:50:21  [main:3244] - [INFO]  启动Appium Server
+2018-03-27 11:50:57  [main:38809] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:50:57  [main:38809] - [ERROR]  welcomeExperienceIt SKIPPED
+2018-03-27 11:53:24  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:53:28  [main:3536] - [INFO]  启动Appium Server
+2018-03-27 11:53:58  [main:33414] - [INFO]  SessionID: aff8c2ce-7dd8-4310-86aa-258494038860
+启动完成
+2018-03-27 11:53:58  [main:33438] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:54:44  [main:80057] - [ERROR]  ********** 重新运行方法'welcomeExperienceIt' ********** 
+   第 1 次
+2018-03-27 11:54:44  [main:80084] - [ERROR]  welcomeExperienceIt FAILURE
+2018-03-27 11:54:52  [main:87243] - [INFO]  -------------------------  已完成: 欢迎页面  -------------------------
+
+
+
+2018-03-27 11:58:28  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:58:31  [main:3454] - [INFO]  启动Appium Server
+2018-03-27 11:58:45  [main:16767] - [INFO]  SessionID: 7e150e54-b031-4849-82a4-ce1feb003b19
+启动完成
+2018-03-27 11:59:38  [main:70707] - [INFO]  -------------------------  已完成: 欢迎页面  -------------------------
+
+
+

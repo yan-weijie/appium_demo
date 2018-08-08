@@ -1,0 +1,567 @@
+2018-03-27 11:48:14  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:48:17  [main:3444] - [INFO]  启动Appium Server
+2018-03-27 11:48:23  [Forwarding newSession on session null to remote:9597] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:48:23  [Forwarding newSession on session null to remote:9641] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:48:23  [Forwarding newSession on session null to remote:9643] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2018-03-27 11:48:23  [Forwarding newSession on session null to remote:9683] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:48:23  [Forwarding newSession on session null to remote:9686] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-03-27 11:48:23  [Forwarding newSession on session null to remote:9687] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-03-27 11:48:24  [Forwarding newSession on session null to remote:10681] - [DEBUG]  http-outgoing-0: Shutdown connection
+2018-03-27 11:48:24  [Forwarding newSession on session null to remote:10681] - [DEBUG]  Connection discarded
+2018-03-27 11:48:24  [Forwarding newSession on session null to remote:10681] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2018-03-27 11:48:24  [main:10742] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:48:24  [main:10744] - [ERROR]  welcomeExperienceIt SKIPPED
+2018-03-27 11:48:47  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:48:50  [main:3236] - [INFO]  启动Appium Server
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8579] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8585] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8587] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8599] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8601] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8602] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8603] - [DEBUG]  Connection established 127.0.0.1:51611<->127.0.0.1:4723
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8603] - [DEBUG]  http-outgoing-0: set socket timeout to 10800000
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8603] - [DEBUG]  Executing request POST /wd/hub/session HTTP/1.1
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8603] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8702] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8705] - [DEBUG]  http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8705] - [DEBUG]  http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8705] - [DEBUG]  http-outgoing-0 >> Content-Length: 261
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8705] - [DEBUG]  http-outgoing-0 >> Host: 127.0.0.1:4723
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8706] - [DEBUG]  http-outgoing-0 >> Connection: Keep-Alive
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8706] - [DEBUG]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8706] - [DEBUG]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8706] - [DEBUG]  http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8706] - [DEBUG]  http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8706] - [DEBUG]  http-outgoing-0 >> "Content-Length: 261[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8706] - [DEBUG]  http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8707] - [DEBUG]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8707] - [DEBUG]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8707] - [DEBUG]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8707] - [DEBUG]  http-outgoing-0 >> "[\r][\n]"
+2018-03-27 11:48:55  [Forwarding newSession on session null to remote:8707] - [DEBUG]  http-outgoing-0 >> "{"desiredCapabilities":{"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true}}"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39961] - [DEBUG]  http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39961] - [DEBUG]  http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39962] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39962] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39962] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39962] - [DEBUG]  http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39962] - [DEBUG]  http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39962] - [DEBUG]  http-outgoing-0 << "Content-Length: 179[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39962] - [DEBUG]  http-outgoing-0 << "ETag: W/"b3-C2BNxKfZe8evrlcBQ0I76qvQfgs"[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39963] - [DEBUG]  http-outgoing-0 << "Date: Tue, 27 Mar 2018 03:49:27 GMT[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39963] - [DEBUG]  http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39963] - [DEBUG]  http-outgoing-0 << "[\r][\n]"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39963] - [DEBUG]  http-outgoing-0 << "{"status":13,"value":{"message":"An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device."},"sessionId":null}"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39967] - [DEBUG]  http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << X-Powered-By: Express
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Origin: *
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Vary: X-HTTP-Method-Override
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Content-Length: 179
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << ETag: W/"b3-C2BNxKfZe8evrlcBQ0I76qvQfgs"
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Date: Tue, 27 Mar 2018 03:49:27 GMT
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:39968] - [DEBUG]  http-outgoing-0 << Connection: keep-alive
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:40049] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:40060] - [DEBUG]  Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:49:27  [Forwarding newSession on session null to remote:40060] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:49:27  [main:40134] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:49:27  [main:40136] - [ERROR]  welcomeExperienceIt SKIPPED
+2018-03-27 11:50:18  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:50:21  [main:3244] - [INFO]  启动Appium Server
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8646] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8655] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8656] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8666] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8667] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8668] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8670] - [DEBUG]  Connection established 127.0.0.1:51971<->127.0.0.1:4723
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8670] - [DEBUG]  http-outgoing-0: set socket timeout to 10800000
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8670] - [DEBUG]  Executing request POST /wd/hub/session HTTP/1.1
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8670] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8671] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8672] - [DEBUG]  http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8672] - [DEBUG]  http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8672] - [DEBUG]  http-outgoing-0 >> Content-Length: 261
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8672] - [DEBUG]  http-outgoing-0 >> Host: 127.0.0.1:4723
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8672] - [DEBUG]  http-outgoing-0 >> Connection: Keep-Alive
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "Content-Length: 261[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "[\r][\n]"
+2018-03-27 11:50:27  [Forwarding newSession on session null to remote:8673] - [DEBUG]  http-outgoing-0 >> "{"desiredCapabilities":{"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true}}"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38766] - [DEBUG]  http-outgoing-0 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38766] - [DEBUG]  http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38766] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "Content-Length: 179[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "ETag: W/"b3-C2BNxKfZe8evrlcBQ0I76qvQfgs"[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "Date: Tue, 27 Mar 2018 03:50:57 GMT[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38767] - [DEBUG]  http-outgoing-0 << "[\r][\n]"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38768] - [DEBUG]  http-outgoing-0 << "{"status":13,"value":{"message":"An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device."},"sessionId":null}"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38772] - [DEBUG]  http-outgoing-0 << HTTP/1.1 500 Internal Server Error
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << X-Powered-By: Express
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Origin: *
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Vary: X-HTTP-Method-Override
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Content-Length: 179
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << ETag: W/"b3-C2BNxKfZe8evrlcBQ0I76qvQfgs"
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Date: Tue, 27 Mar 2018 03:50:57 GMT
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38773] - [DEBUG]  http-outgoing-0 << Connection: keep-alive
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38778] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38783] - [DEBUG]  Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:50:57  [Forwarding newSession on session null to remote:38783] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:50:57  [main:38809] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:50:57  [main:38809] - [ERROR]  welcomeExperienceIt SKIPPED
+2018-03-27 11:53:24  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:53:28  [main:3536] - [INFO]  启动Appium Server
+2018-03-27 11:53:46  [Forwarding newSession on session null to remote:21844] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:53:46  [Forwarding newSession on session null to remote:21991] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:53:46  [Forwarding newSession on session null to remote:21994] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22154] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22222] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22224] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22739] - [DEBUG]  Connection established 127.0.0.1:52615<->127.0.0.1:4723
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22739] - [DEBUG]  http-outgoing-0: set socket timeout to 10800000
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22740] - [DEBUG]  Executing request POST /wd/hub/session HTTP/1.1
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22740] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22752] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22755] - [DEBUG]  http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22755] - [DEBUG]  http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22756] - [DEBUG]  http-outgoing-0 >> Content-Length: 261
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22756] - [DEBUG]  http-outgoing-0 >> Host: 127.0.0.1:4723
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22756] - [DEBUG]  http-outgoing-0 >> Connection: Keep-Alive
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22756] - [DEBUG]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22756] - [DEBUG]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "Content-Length: 261[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22757] - [DEBUG]  http-outgoing-0 >> "[\r][\n]"
+2018-03-27 11:53:47  [Forwarding newSession on session null to remote:22758] - [DEBUG]  http-outgoing-0 >> "{"desiredCapabilities":{"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true}}"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Content-Length: 945[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "ETag: W/"3b1-5JuUuHGvIzVkmjBFyiqXeHHh2PI"[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Date: Tue, 27 Mar 2018 03:53:58 GMT[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33310] - [DEBUG]  http-outgoing-0 << "[\r][\n]"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33311] - [DEBUG]  http-outgoing-0 << "{"status":0,"value":{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true,"noReset":true},"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true,"noReset":true,"deviceUDID":"192.168.169.101:5555","deviceScreenSize":"1440x2960","deviceModel":"Samsung Galaxy S8 - 7.0.0 - API 24 - 1440x2960","deviceManufacturer":"Genymotion"},"sessionId":"aff8c2ce-7dd8-4310-86aa-258494038860"}"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << HTTP/1.1 200 OK
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << X-Powered-By: Express
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Origin: *
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Vary: X-HTTP-Method-Override
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Content-Length: 945
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << ETag: W/"3b1-5JuUuHGvIzVkmjBFyiqXeHHh2PI"
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Date: Tue, 27 Mar 2018 03:53:58 GMT
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33323] - [DEBUG]  http-outgoing-0 << Connection: keep-alive
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33327] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33332] - [DEBUG]  Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:53:58  [Forwarding newSession on session null to remote:33333] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33391] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33392] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33392] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33392] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33393] - [DEBUG]  Stale connection check
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33394] - [DEBUG]  http-outgoing-0 << "[read] I/O error: Read timed out"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33394] - [DEBUG]  http-outgoing-0: set socket timeout to 10800000
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33394] - [DEBUG]  Executing request POST /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860/timeouts HTTP/1.1
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> POST /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860/timeouts HTTP/1.1
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> Content-Length: 30
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> Host: 127.0.0.1:4723
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> Connection: Keep-Alive
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "POST /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860/timeouts HTTP/1.1[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "Content-Length: 30[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33395] - [DEBUG]  http-outgoing-0 >> "{"type":"implicit","ms":10000}"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33412] - [DEBUG]  http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33412] - [DEBUG]  http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33412] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33412] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33412] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "Content-Length: 76[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "ETag: W/"4c-jLAj68heOb5vtb0aeJgSd5O57Ug"[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "Date: Tue, 27 Mar 2018 03:53:58 GMT[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "[\r][\n]"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << "{"status":0,"value":null,"sessionId":"aff8c2ce-7dd8-4310-86aa-258494038860"}"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << HTTP/1.1 200 OK
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << X-Powered-By: Express
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Origin: *
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Vary: X-HTTP-Method-Override
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Content-Length: 76
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << ETag: W/"4c-jLAj68heOb5vtb0aeJgSd5O57Ug"
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Date: Tue, 27 Mar 2018 03:53:58 GMT
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  http-outgoing-0 << Connection: keep-alive
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33413] - [DEBUG]  Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:53:58  [Forwarding setTimeout on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:33414] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:53:58  [main:33414] - [INFO]  SessionID: aff8c2ce-7dd8-4310-86aa-258494038860
+启动完成
+2018-03-27 11:53:58  [main:33438] - [INFO]  welcomeExperienceIt START
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58472] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58473] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58473] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58474] - [DEBUG]  http-outgoing-0 << "end of stream"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58475] - [DEBUG]  http-outgoing-0: Close connection
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58476] - [DEBUG]  Connection leased: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58476] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58477] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58478] - [DEBUG]  Connection established 127.0.0.1:52861<->127.0.0.1:4723
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58478] - [DEBUG]  http-outgoing-1: set socket timeout to 10800000
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58478] - [DEBUG]  Executing request POST /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860/element HTTP/1.1
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58478] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58478] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58479] - [DEBUG]  http-outgoing-1 >> POST /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860/element HTTP/1.1
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58479] - [DEBUG]  http-outgoing-1 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58479] - [DEBUG]  http-outgoing-1 >> Content-Length: 51
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58479] - [DEBUG]  http-outgoing-1 >> Host: 127.0.0.1:4723
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58479] - [DEBUG]  http-outgoing-1 >> Connection: Keep-Alive
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58479] - [DEBUG]  http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58479] - [DEBUG]  http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "POST /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860/element HTTP/1.1[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "Content-Length: 51[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "[\r][\n]"
+2018-03-27 11:54:23  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:58480] - [DEBUG]  http-outgoing-1 >> "{"using":"id","value":"com.coinsauto.car:id/phone"}"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79971] - [DEBUG]  http-outgoing-1 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79971] - [DEBUG]  http-outgoing-1 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79972] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79972] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79972] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79972] - [DEBUG]  http-outgoing-1 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79972] - [DEBUG]  http-outgoing-1 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79973] - [DEBUG]  http-outgoing-1 << "Content-Length: 164[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79973] - [DEBUG]  http-outgoing-1 << "ETag: W/"a4-4KJyTfowAH7mDv28c1XdRYc52Es"[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79973] - [DEBUG]  http-outgoing-1 << "Date: Tue, 27 Mar 2018 03:54:44 GMT[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79973] - [DEBUG]  http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79973] - [DEBUG]  http-outgoing-1 << "[\r][\n]"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79973] - [DEBUG]  http-outgoing-1 << "{"status":7,"value":{"message":"An element could not be located on the page using the given search parameters."},"sessionId":"aff8c2ce-7dd8-4310-86aa-258494038860"}"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << HTTP/1.1 500 Internal Server Error
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << X-Powered-By: Express
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Origin: *
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Vary: X-HTTP-Method-Override
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Content-Length: 164
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << ETag: W/"a4-4KJyTfowAH7mDv28c1XdRYc52Es"
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Date: Tue, 27 Mar 2018 03:54:44 GMT
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79974] - [DEBUG]  http-outgoing-1 << Connection: keep-alive
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79975] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79975] - [DEBUG]  Connection [id: 1][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:54:44  [Forwarding findElement on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:79976] - [DEBUG]  Connection released: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:54:44  [main:80057] - [ERROR]  ********** 重新运行方法'welcomeExperienceIt' ********** 
+   第 1 次
+2018-03-27 11:54:44  [main:80084] - [ERROR]  welcomeExperienceIt FAILURE
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80087] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80087] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80087] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80087] - [DEBUG]  Connection leased: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80087] - [DEBUG]  Stale connection check
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80088] - [DEBUG]  http-outgoing-1 << "[read] I/O error: Read timed out"
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80088] - [DEBUG]  http-outgoing-1: set socket timeout to 10800000
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80088] - [DEBUG]  Executing request DELETE /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860 HTTP/1.1
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80088] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80088] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> DELETE /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860 HTTP/1.1
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> Host: 127.0.0.1:4723
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> Connection: Keep-Alive
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> "DELETE /wd/hub/session/aff8c2ce-7dd8-4310-86aa-258494038860 HTTP/1.1[\r][\n]"
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:54:44  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:80089] - [DEBUG]  http-outgoing-1 >> "[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82208] - [DEBUG]  http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82208] - [DEBUG]  http-outgoing-1 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "Content-Length: 76[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "ETag: W/"4c-jLAj68heOb5vtb0aeJgSd5O57Ug"[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "Date: Tue, 27 Mar 2018 03:54:47 GMT[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82209] - [DEBUG]  http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82211] - [DEBUG]  http-outgoing-1 << "[\r][\n]"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82211] - [DEBUG]  http-outgoing-1 << "{"status":0,"value":null,"sessionId":"aff8c2ce-7dd8-4310-86aa-258494038860"}"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << HTTP/1.1 200 OK
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << X-Powered-By: Express
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Origin: *
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << Content-Length: 76
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << ETag: W/"4c-jLAj68heOb5vtb0aeJgSd5O57Ug"
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82212] - [DEBUG]  http-outgoing-1 << Date: Tue, 27 Mar 2018 03:54:47 GMT
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82213] - [DEBUG]  http-outgoing-1 << Connection: keep-alive
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82213] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82213] - [DEBUG]  Connection [id: 1][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:54:47  [Forwarding quit on session aff8c2ce-7dd8-4310-86aa-258494038860 to remote:82213] - [DEBUG]  Connection released: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:54:52  [main:87243] - [INFO]  -------------------------  已完成: 欢迎页面  -------------------------
+
+
+
+2018-03-27 11:58:28  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-03-27 11:58:31  [main:3454] - [INFO]  启动Appium Server
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8835] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8842] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8843] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8854] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8855] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8856] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8857] - [DEBUG]  Connection established 127.0.0.1:53284<->127.0.0.1:4723
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8857] - [DEBUG]  http-outgoing-0: set socket timeout to 10800000
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8858] - [DEBUG]  Executing request POST /wd/hub/session HTTP/1.1
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8858] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8858] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8859] - [DEBUG]  http-outgoing-0 >> POST /wd/hub/session HTTP/1.1
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8859] - [DEBUG]  http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> Content-Length: 261
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> Host: 127.0.0.1:4723
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> Connection: Keep-Alive
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "POST /wd/hub/session HTTP/1.1[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "Content-Length: 261[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "[\r][\n]"
+2018-03-27 11:58:37  [Forwarding newSession on session null to remote:8860] - [DEBUG]  http-outgoing-0 >> "{"desiredCapabilities":{"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true}}"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16706] - [DEBUG]  http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16707] - [DEBUG]  http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16707] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16707] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16707] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16707] - [DEBUG]  http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16707] - [DEBUG]  http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16708] - [DEBUG]  http-outgoing-0 << "Content-Length: 945[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16708] - [DEBUG]  http-outgoing-0 << "ETag: W/"3b1-lo3+rfHm98WUlX/tuxY/Kix54Dw"[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16708] - [DEBUG]  http-outgoing-0 << "Date: Tue, 27 Mar 2018 03:58:44 GMT[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16708] - [DEBUG]  http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16708] - [DEBUG]  http-outgoing-0 << "[\r][\n]"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16708] - [DEBUG]  http-outgoing-0 << "{"status":0,"value":{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true,"noReset":true},"appPackage":"com.coinsauto.car","appActivity":".ui.activity.SplashActivity","platformVersion":"7.0","unicodeKeyboard":true,"platformName":"Android","udid":"192.168.169.101:5555","deviceName":"192.168.169.101:5555","resetKeyboard":true,"noReset":true,"deviceUDID":"192.168.169.101:5555","deviceScreenSize":"1440x2960","deviceModel":"Samsung Galaxy S8 - 7.0.0 - API 24 - 1440x2960","deviceManufacturer":"Genymotion"},"sessionId":"7e150e54-b031-4849-82a4-ce1feb003b19"}"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16711] - [DEBUG]  http-outgoing-0 << HTTP/1.1 200 OK
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16711] - [DEBUG]  http-outgoing-0 << X-Powered-By: Express
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16711] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Origin: *
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << Vary: X-HTTP-Method-Override
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << Content-Length: 945
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << ETag: W/"3b1-lo3+rfHm98WUlX/tuxY/Kix54Dw"
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << Date: Tue, 27 Mar 2018 03:58:44 GMT
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16712] - [DEBUG]  http-outgoing-0 << Connection: keep-alive
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16719] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16725] - [DEBUG]  Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:58:44  [Forwarding newSession on session null to remote:16725] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16740] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16740] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16741] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16741] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16741] - [DEBUG]  Stale connection check
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16743] - [DEBUG]  http-outgoing-0 << "[read] I/O error: Read timed out"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16743] - [DEBUG]  http-outgoing-0: set socket timeout to 10800000
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16743] - [DEBUG]  Executing request POST /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19/timeouts HTTP/1.1
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16743] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> POST /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19/timeouts HTTP/1.1
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> Content-Length: 30
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> Host: 127.0.0.1:4723
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> Connection: Keep-Alive
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "POST /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19/timeouts HTTP/1.1[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "Content-Length: 30[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16744] - [DEBUG]  http-outgoing-0 >> "{"type":"implicit","ms":10000}"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Content-Length: 76[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "ETag: W/"4c-20Pz0T31WSigTYbp2eCeXJV4aL8"[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Date: Tue, 27 Mar 2018 03:58:45 GMT[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "[\r][\n]"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16763] - [DEBUG]  http-outgoing-0 << "{"status":0,"value":null,"sessionId":"7e150e54-b031-4849-82a4-ce1feb003b19"}"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << HTTP/1.1 200 OK
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << X-Powered-By: Express
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Origin: *
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Vary: X-HTTP-Method-Override
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Content-Length: 76
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << ETag: W/"4c-20Pz0T31WSigTYbp2eCeXJV4aL8"
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Date: Tue, 27 Mar 2018 03:58:45 GMT
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  http-outgoing-0 << Connection: keep-alive
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16764] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16765] - [DEBUG]  Connection [id: 0][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:58:45  [Forwarding setTimeout on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:16765] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:58:45  [main:16767] - [INFO]  SessionID: 7e150e54-b031-4849-82a4-ce1feb003b19
+启动完成
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41782] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41783] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41783] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41784] - [DEBUG]  http-outgoing-0 << "end of stream"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41784] - [DEBUG]  http-outgoing-0: Close connection
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41785] - [DEBUG]  Connection leased: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41785] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41785] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41786] - [DEBUG]  Connection established 127.0.0.1:53516<->127.0.0.1:4723
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41786] - [DEBUG]  http-outgoing-1: set socket timeout to 10800000
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41786] - [DEBUG]  Executing request POST /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19/element HTTP/1.1
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41786] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41786] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41787] - [DEBUG]  http-outgoing-1 >> POST /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19/element HTTP/1.1
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41787] - [DEBUG]  http-outgoing-1 >> Content-Type: application/json; charset=utf-8
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41787] - [DEBUG]  http-outgoing-1 >> Content-Length: 51
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41788] - [DEBUG]  http-outgoing-1 >> Host: 127.0.0.1:4723
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41788] - [DEBUG]  http-outgoing-1 >> Connection: Keep-Alive
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41788] - [DEBUG]  http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41788] - [DEBUG]  http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "POST /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19/element HTTP/1.1[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "Content-Length: 51[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "[\r][\n]"
+2018-03-27 11:59:10  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:41789] - [DEBUG]  http-outgoing-1 >> "{"using":"id","value":"com.coinsauto.car:id/phone"}"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63574] - [DEBUG]  http-outgoing-1 << "HTTP/1.1 500 Internal Server Error[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63574] - [DEBUG]  http-outgoing-1 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63574] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63574] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63574] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63575] - [DEBUG]  http-outgoing-1 << "Vary: X-HTTP-Method-Override[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63575] - [DEBUG]  http-outgoing-1 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63575] - [DEBUG]  http-outgoing-1 << "Content-Length: 164[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63575] - [DEBUG]  http-outgoing-1 << "ETag: W/"a4-9qxa4zXKOvxHm3De+tuHtEjmtTc"[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63575] - [DEBUG]  http-outgoing-1 << "Date: Tue, 27 Mar 2018 03:59:31 GMT[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63575] - [DEBUG]  http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63575] - [DEBUG]  http-outgoing-1 << "[\r][\n]"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63576] - [DEBUG]  http-outgoing-1 << "{"status":7,"value":{"message":"An element could not be located on the page using the given search parameters."},"sessionId":"7e150e54-b031-4849-82a4-ce1feb003b19"}"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63576] - [DEBUG]  http-outgoing-1 << HTTP/1.1 500 Internal Server Error
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63576] - [DEBUG]  http-outgoing-1 << X-Powered-By: Express
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63576] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Origin: *
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63576] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63576] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63577] - [DEBUG]  http-outgoing-1 << Vary: X-HTTP-Method-Override
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63577] - [DEBUG]  http-outgoing-1 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63577] - [DEBUG]  http-outgoing-1 << Content-Length: 164
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63577] - [DEBUG]  http-outgoing-1 << ETag: W/"a4-9qxa4zXKOvxHm3De+tuHtEjmtTc"
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63577] - [DEBUG]  http-outgoing-1 << Date: Tue, 27 Mar 2018 03:59:31 GMT
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63577] - [DEBUG]  http-outgoing-1 << Connection: keep-alive
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63577] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63578] - [DEBUG]  Connection [id: 1][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:59:31  [Forwarding findElement on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63578] - [DEBUG]  Connection released: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63610] - [DEBUG]  CookieSpec selected: default
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63610] - [DEBUG]  Auth cache not set in the context
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63610] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63610] - [DEBUG]  Connection leased: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63610] - [DEBUG]  Stale connection check
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 << "[read] I/O error: Read timed out"
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1: set socket timeout to 10800000
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  Executing request DELETE /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19 HTTP/1.1
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  Target auth state: UNCHALLENGED
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  Proxy auth state: UNCHALLENGED
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> DELETE /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19 HTTP/1.1
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> Host: 127.0.0.1:4723
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> Connection: Keep-Alive
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> "DELETE /wd/hub/session/7e150e54-b031-4849-82a4-ce1feb003b19 HTTP/1.1[\r][\n]"
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> "Host: 127.0.0.1:4723[\r][\n]"
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_65)[\r][\n]"
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-03-27 11:59:31  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:63612] - [DEBUG]  http-outgoing-1 >> "[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "X-Powered-By: Express[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "Access-Control-Allow-Headers: origin, content-type, accept[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "Content-Length: 76[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "ETag: W/"4c-20Pz0T31WSigTYbp2eCeXJV4aL8"[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "Date: Tue, 27 Mar 2018 03:59:33 GMT[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "[\r][\n]"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << "{"status":0,"value":null,"sessionId":"7e150e54-b031-4849-82a4-ce1feb003b19"}"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << HTTP/1.1 200 OK
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << X-Powered-By: Express
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Origin: *
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65654] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS,DELETE
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  http-outgoing-1 << Access-Control-Allow-Headers: origin, content-type, accept
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  http-outgoing-1 << Content-Type: application/json; charset=utf-8
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  http-outgoing-1 << Content-Length: 76
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  http-outgoing-1 << ETag: W/"4c-20Pz0T31WSigTYbp2eCeXJV4aL8"
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  http-outgoing-1 << Date: Tue, 27 Mar 2018 03:59:33 GMT
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  http-outgoing-1 << Connection: keep-alive
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  Connection can be kept alive indefinitely
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  Connection [id: 1][route: {}->http://127.0.0.1:4723] can be kept alive indefinitely
+2018-03-27 11:59:33  [Forwarding quit on session 7e150e54-b031-4849-82a4-ce1feb003b19 to remote:65655] - [DEBUG]  Connection released: [id: 1][route: {}->http://127.0.0.1:4723][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-03-27 11:59:38  [main:70707] - [INFO]  -------------------------  已完成: 欢迎页面  -------------------------
+
+
+

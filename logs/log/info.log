@@ -1,0 +1,56 @@
+2018-08-05 11:06:35  [main:10950] - [INFO]  SessionID: c2c6fe60-dacf-4b3b-8c76-7c9fc7d89c8d
+启动完成
+2018-08-05 11:07:36  [main:10185] - [INFO]  SessionID: d5adb37e-5745-468b-8ce3-60a10cd4bac2
+启动完成
+2018-08-05 11:09:08  [main:8798] - [INFO]  SessionID: e4146054-bca3-42e2-a416-ec1ab8736ef2
+启动完成
+2018-08-05 11:10:35  [main:8624] - [INFO]  SessionID: 6f692912-0571-4a96-88f0-a9f8940ba1bc
+启动完成
+2018-08-05 11:40:17  [main:20010] - [INFO]  SessionID: ec515bb1-cedb-4ce4-bd3b-3b4726aead17
+启动完成
+2018-08-05 12:06:44  [main:0] - [INFO]  启动Appium Server
+2018-08-05 12:51:48  [main:0] - [INFO]  启动Appium Server
+2018-08-05 12:56:16  [main:25591] - [INFO]  SessionID: 56f97d81-362c-4a2f-a371-ce967edfe0f6
+启动完成
+2018-08-05 12:56:21  [Forwarding quit on session 56f97d81-362c-4a2f-a371-ce967edfe0f6 to remote:30983] - [INFO]  I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4723: Software caused connection abort: recv failed
+2018-08-05 12:56:21  [Forwarding quit on session 56f97d81-362c-4a2f-a371-ce967edfe0f6 to remote:30985] - [INFO]  Retrying request to {}->http://127.0.0.1:4723
+2018-08-05 15:09:25  [main:24377] - [INFO]  SessionID: 6327e697-c4d7-4d0a-b2e3-f2774bdd070b
+启动完成
+2018-08-05 15:32:06  [main:0] - [INFO]  SessionID: 2f7ba034-c208-4847-ab80-c94f8331e1e6
+启动完成
+2018-08-05 15:35:18  [main:0] - [INFO]  SessionID: 0b5f6e9e-a20d-4b8e-9b3a-7737d58ac0bb
+启动完成
+2018-08-05 15:36:01  [main:0] - [INFO]  SessionID: bb74553a-1946-47d6-86c6-0f443983a01b
+启动完成
+2018-08-05 15:43:24  [main:0] - [INFO]  SessionID: 4123efce-f5be-4cbc-826d-3758353cf6d9
+启动完成
+2018-08-05 15:49:22  [main:0] - [INFO]  SessionID: 398c842c-9fe8-46db-b86c-931858c86eee
+启动完成
+2018-08-05 15:56:30  [main:0] - [INFO]  SessionID: d97ff8b4-efb1-46eb-b721-773b79bd0b4f
+启动完成
+2018-08-05 15:57:39  [main:0] - [INFO]  SessionID: e8fd6c01-09f0-401c-9d06-47f0c9a515bb
+启动完成
+2018-08-05 16:21:48  [main:0] - [INFO]  SessionID: 8e3fc522-01c1-4065-a468-9ccb6f7a3972
+启动完成
+2018-08-05 16:27:02  [main:0] - [INFO]  SessionID: cfff0152-1373-40f3-bcf4-b785c5eff3f4
+启动完成
+2018-08-05 16:37:53  [main:0] - [INFO]  SessionID: ddf7419a-d536-414f-8ae3-84858755abac
+启动完成
+2018-08-05 16:42:22  [main:0] - [INFO]  SessionID: a7e138d0-a05b-4360-95ab-aff3065180e7
+启动完成
+2018-08-05 16:49:01  [main:0] - [INFO]  SessionID: d4c80c1b-9c89-45f6-b729-43e9b8ebf0ce
+启动完成
+2018-08-05 16:51:03  [main:0] - [INFO]  SessionID: 9ac71f8d-eba3-4bf7-997d-0f97790c6d23
+启动完成
+2018-08-05 16:52:50  [main:0] - [INFO]  SessionID: 65722b13-99b2-46a5-a327-ed1b9a2aece3
+启动完成
+2018-08-05 16:54:47  [main:1] - [INFO]  SessionID: a3574c54-2742-4461-8ccd-ef9ae336718a
+启动完成
+2018-08-05 16:56:30  [main:0] - [INFO]  SessionID: c2057651-d559-422a-b2ab-8184c2ab0a5e
+启动完成
+2018-08-05 17:44:04  [main:0] - [INFO]  SessionID: 12689ee0-c031-4d68-9393-a13b3e069ee9
+启动完成
+2018-08-05 17:45:33  [main:0] - [INFO]  SessionID: 3d307d3c-f6be-478a-aa9f-49b7dfcff25b
+启动完成
+2018-08-05 17:46:55  [main:0] - [INFO]  SessionID: c94f4ff0-99b9-49ae-8370-da8842d7aeab
+启动完成

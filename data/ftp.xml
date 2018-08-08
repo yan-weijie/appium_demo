@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--启动参数-->
+<infos>
+	<capabilities>
+	    <!-- 唯医iOS FTP服务器  -->
+		<iOSFtpIp>192.168.1.37</iOSFtpIp>
+		<iOSFtpPort>10021</iOSFtpPort>
+		<iOSFtpUser>IOS_IPA</iOSFtpUser>
+		<iOSFtpPass>IOS123456upload</iOSFtpPass>
+		<iOSRemotePath>/</iOSRemotePath>
+		<iOSTag>Allinmd</iOSTag>
+		
+	    <!-- 医栈iOS FTP服务器  -->
+		<medplusIOSFtpIp>192.168.1.37</medplusIOSFtpIp>
+		<medplusIOSFtpPort>10021</medplusIOSFtpPort>
+		<medplusIOSFtpUser>IOS_IPA</medplusIOSFtpUser>
+		<medplusIOSFtpPass>IOS123456upload</medplusIOSFtpPass>
+		<medplusIOSRemotePath>/</medplusIOSRemotePath>
+		<medplusIOSTag>Medplus</medplusIOSTag>
+		
+		<!-- 唯医Android FTP服务器  -->
+		<androidFtpIp>192.168.1.37</androidFtpIp>
+		<androidFtpPort>10021</androidFtpPort>
+		<androidFtpUser>android_app</androidFtpUser>
+		<androidFtpPass>android654321app</androidFtpPass>
+		<androidRemotePath>/</androidRemotePath>
+		<androidTag>Allinmd</androidTag>
+		<androidLine>auto</androidLine>
+		
+		<!-- 医栈Android FTP服务器  -->
+		<medplusAndroidFtpIp>192.168.1.72</medplusAndroidFtpIp>
+		<medplusAndroidFtpPort>10021</medplusAndroidFtpPort>
+		<medplusAndroidFtpUser>android_app</medplusAndroidFtpUser>
+		<medplusAndroidFtpPass>android654321app</medplusAndroidFtpPass>
+		<medplusAndroidRemotePath>/app/</medplusAndroidRemotePath>
+		<medplusAndroidTag>medplus</medplusAndroidTag>
+	</capabilities>	
+</infos>

@@ -1,0 +1,11 @@
+2018-04-28 15:55:29  [main:0] - [INFO]  -------------------------  欢迎页面  -------------------------
+2018-04-28 15:55:34  [main:4205] - [INFO]  启动Appium Server
+2018-04-28 15:55:42  [Forwarding newSession on session null to remote:12497] - [DEBUG]  CookieSpec selected: default
+2018-04-28 15:55:42  [Forwarding newSession on session null to remote:12560] - [DEBUG]  Auth cache not set in the context
+2018-04-28 15:55:42  [Forwarding newSession on session null to remote:12563] - [DEBUG]  Connection request: [route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2018-04-28 15:55:42  [Forwarding newSession on session null to remote:12601] - [DEBUG]  Connection leased: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2018-04-28 15:55:42  [Forwarding newSession on session null to remote:12605] - [DEBUG]  Opening connection {}->http://127.0.0.1:4723
+2018-04-28 15:55:42  [Forwarding newSession on session null to remote:12606] - [DEBUG]  Connecting to /127.0.0.1:4723
+2018-04-28 15:55:43  [Forwarding newSession on session null to remote:13607] - [DEBUG]  http-outgoing-0: Shutdown connection
+2018-04-28 15:55:43  [Forwarding newSession on session null to remote:13607] - [DEBUG]  Connection discarded
+2018-04-28 15:55:43  [Forwarding newSession on session null to remote:13607] - [DEBUG]  Connection released: [id: 0][route: {}->http://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
